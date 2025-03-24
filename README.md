@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QChat - Multi-Model Chat Interface
 
 QChat is a modern chat interface that supports multiple AI models including OpenAI, Gemini, Anthropic, DeepSeek, and Mistral.
@@ -86,3 +87,7 @@ cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 ``` 
+=======
+# qchat
+My chat app - LLm
+>>>>>>> db5d0f236c564809388abe4882933e252fbec620
